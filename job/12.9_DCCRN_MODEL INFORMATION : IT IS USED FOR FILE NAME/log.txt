@@ -1,0 +1,16 @@
+adsfasdfsdfds2022-12-9 18:7:29
+mode                : DCCRN_MODEL INFORMATION : IT IS USED FOR FILE NAME
+learning rate       : 0.0005
+total params   : 7099405 (7.10 M, 28.40 MBytes)
+Epoch [1] | 0.005565 | 0.005074 | 0.068096 | 0.031091 takes 5033.73 seconds
+Epoch [2] | 0.004388 | 0.004569 | 0.069795 | 0.031917 takes 5048.84 seconds
+Epoch [3] | 0.004061 | 0.004411 | 0.072037 | 0.032130 takes 5070.14 seconds
+Epoch [4] | 0.003886 | 0.004253 | 0.070468 | 0.032458 takes 5081.77 seconds
+Epoch [5] | 0.003769 | 0.004054 | 0.073177 | 0.032694 takes 5129.16 seconds
+Epoch [6] | 0.003676 | 0.003954 | 0.073437 | 0.032949 takes 5164.87 seconds
+Epoch [7] | 0.003595 | 0.003780 | 0.075519 | 0.033165 takes 5200.04 seconds
+Epoch [8] | 0.003537 | 0.003751 | 0.073560 | 0.033243 takes 5220.35 seconds
+Epoch [9] | 0.003490 | 0.003812 | 0.072988 | 0.033275 takes 5243.86 seconds
+Epoch [10] | 0.003440 | 0.003592 | 0.075526 | 0.033558 takes 5244.83 seconds
+Epoch [11] | 0.003403 | 0.003631 | 0.075066 | 0.033541 takes 5260.49 seconds
+Epoch [12] | 0.003373 | 0.003687 | 0.074977 | 0.033506 takes 5272.12 seconds
