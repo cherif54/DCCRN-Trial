@@ -12,10 +12,10 @@ test = True
 job_dir = '/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/job/'
 logs_dir = '/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/logs/'
 #chkpt_path = '/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/job/12.9_DCCRN_MODEL INFORMATION : IT IS USED FOR FILE NAME/chkpt_10.pt'
-chkpt_path='/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/job/first_model/chkpt_10.pt'
+chkpt_path='/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/job/12.9_DCCRN_MODEL INFORMATION : IT IS USED FOR FILE NAME/chkpt_10.pt'
 #chkpt_path= None
 
-chkpt_model = 'first_model'
+chkpt_model = '12.9_DCCRN_MODEL INFORMATION : IT IS USED FOR FILE NAME'
 #chkpt_path = job_dir + chkpt_model + 'chkpt_10.pt'
 
 # dataset path
@@ -25,8 +25,8 @@ clean_dirs_for_train = '/home/cherif/ARL/VBx/DCCRN-Datasets/train/clean/'
 noisy_dirs_for_valid = '/home/cherif/ARL/VBx/DCCRN-Datasets/valid/noisy/'
 clean_dirs_for_valid = '/home/cherif/ARL/VBx/DCCRN-Datasets/valid/clean/'
 
-test_folder = '/home/cherif/ARL/VBx/DCCRN-Datasets/test/'
-test_output = '/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/heli_3'
+test_folder = '/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/test_file/'
+test_output = '/home/cherif/ARL/VBx/DCCRN-with-various-loss-functions/test_output'
 
 # model information
 fs = 16000
